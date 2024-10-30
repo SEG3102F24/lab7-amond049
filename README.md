@@ -4,3 +4,7 @@
 Access SpringBoot RESTFul API - in branch *server* 
 
 Access Angular Client Application - in branch *client*
+
+Student Name: Meekyle Mondal <br>
+Student Number: 300246544 <br>
+Student Email: amond049@uottawa.ca
