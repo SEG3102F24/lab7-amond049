@@ -3,11 +3,14 @@ import {Author} from "../model/author";
 import {Subscription} from "rxjs";
 import {ActivatedRoute} from "@angular/router";
 import {AuthorService} from "../service/author.service";
+import {NgIf} from "@angular/common";
 
 @Component({
   selector: 'app-author',
   standalone: true,
-  imports: [],
+  imports: [
+    NgIf
+  ],
   templateUrl: './author.component.html',
   styleUrl: './author.component.css'
 })
